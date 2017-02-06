@@ -1,0 +1,8 @@
+*.py[cod]
+*.sw?
+*~
+.DS_Store
+.vim-flavor
+.vimrc
+VimFlavor.lock
+tags
